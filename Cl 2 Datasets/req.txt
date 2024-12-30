@@ -1,0 +1,10 @@
+﻿pandas
+numpy
+scipy
+statsmodels
+biopython
+seaborn
+matplotlib
+nltk
+pgmpy
+scikit-learn
