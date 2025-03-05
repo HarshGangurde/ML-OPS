@@ -1,1 +1,2 @@
-Created a readme file and imorted the csv file
+Movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
